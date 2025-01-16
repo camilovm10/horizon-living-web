@@ -59,6 +59,7 @@ const Movie = ({name}) => {
 
     setMoviesData(data);
   };
+  
 
   return (
       <div className='movie-card'>
